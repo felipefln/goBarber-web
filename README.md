@@ -9,6 +9,8 @@ Aplicação Web GoBarber, aplicação de agendamentos de serviços de barbearia.
 -   ReactJS
 -   Typescript
 -   Polished
+-   Unform
+-   Yup
 -   \* [check package.json](/package.json)
 
 ## More info
